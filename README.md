@@ -1,2 +1,2 @@
 # crypto-pro
-First try at a web3 project
+First try at a web3 projecte
